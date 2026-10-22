@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # JobMate AI — Your Personal AI Career Coach
 ### Amazon Alexa+ Hackathon Project & Model Context Protocol (MCP) Integration
 
@@ -134,3 +135,7 @@ All 18 tests cover schema compliance, tool listings, valid parameter handling, i
    ```bash
    npx tsx tests/mcp.test.ts
    ```
+=======
+# JobMeta-AI
+An AI-powered voice-based interview preparation platform that uses speech recognition and AI-generated speech to conduct mock interviews, provide personalized feedback, and help users improve their communication skills and interview performance.
+>>>>>>> b6a2148d9ca87437d7776470bcd58291bac73a1d
