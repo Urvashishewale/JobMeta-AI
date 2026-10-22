@@ -1,5 +1,5 @@
  HEAD
-# JobMate AI — Your Personal AI Career Coach
+# JobMeta AI — Your Personal AI Career Coach
 ### Amazon Alexa+ Hackathon Project & Model Context Protocol (MCP) Integration
 
 **JobMate AI** is an advanced AI career assistant and voice-powered interview coach built for college students, fresh graduates, and career changers. It bridges the gap between academic education and modern technical hiring by offering spoken interview simulations, adaptive follow-ups, real-time rubric evaluations, professional English communication coaching, grounded resume intelligence, and actionable 4-phase career roadmaps.
