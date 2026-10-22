@@ -1,0 +1,10 @@
+{
+  "name": "JobMeta AI — AI-Powered Voice Interview Coach",
+  "description": "Master job interviews through realistic AI-powered voice conversations, real-time speech recognition, instant feedback, and comprehensive performance analytics.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
