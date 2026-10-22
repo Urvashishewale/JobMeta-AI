@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+ HEAD
 # JobMate AI — Your Personal AI Career Coach
 ### Amazon Alexa+ Hackathon Project & Model Context Protocol (MCP) Integration
 
